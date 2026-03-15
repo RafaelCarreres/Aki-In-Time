@@ -91,7 +91,7 @@ Aki collects **no personal data**.
 
 Read the full privacy policy here:
 
-**[Privacy Policy](https://your-link-to-privacy-policy.com)**
+**[Privacy Policy](https://rafaelcarreres.github.io/Aki-In-Time/privacy/)**
 
 
 ---
