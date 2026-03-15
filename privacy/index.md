@@ -72,11 +72,6 @@ Aki does **not**:
 - sell or share user data
 
 
-## Children's Privacy
-
-Aki does not knowingly collect personal information from anyone, including children under 13.
-
-
 ## Changes to This Policy
 
 This Privacy Policy may be updated from time to time.  
