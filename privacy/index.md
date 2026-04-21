@@ -1,6 +1,6 @@
 # Privacy Policy — Aki In Time
 
-Last Updated: March 15, 2026
+Last Updated: April 21, 2026
 
 
 ## Overview
@@ -23,6 +23,26 @@ Information you add to Aki is stored locally on your device, including:
 This data is **not transmitted to any server operated by the developer**.
 
 If you delete the app, this data is removed from your device.
+
+## iCloud Sync (Optional)
+
+If you have iCloud enabled on your device, Aki can optionally sync your product data across your devices using your private iCloud account.
+
+**What's synced:**
+* Product names
+* Expiry dates
+* Quantities
+
+**Privacy:**
+* Data is stored in your personal iCloud account
+* Only accessible on devices signed in with your Apple ID
+* Apple does not access your product data
+* The developer does not have access to your iCloud data
+
+**Control:**
+You can disable iCloud sync for Aki at any time in Settings → iCloud → Manage Storage.
+
+If iCloud is disabled, all data remains stored locally on your device only.
 
 
 ## Barcode Lookup
